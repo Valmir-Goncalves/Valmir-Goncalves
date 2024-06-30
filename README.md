@@ -1,7 +1,7 @@
 - 👋 Hi, I’m sou @Valmir-Goncalves
 - estudante universitario no centro Universitario Anhaguera Pitagoras Ampli
 - inicio = 15/07/2022
-- termino = 28/07/2025
+- termino = 23/12/2025
 - curso Engenharia De Software
 - 👀  estou estudando python ...
 - 🌱 atualmente estou desenvolvendo um programa de calculo de materias de obra ...
