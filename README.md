@@ -1,4 +1,4 @@
-- 👋 Hi, I’m sou @Valmir-Goncalves
+- 👋 Hi, I’m @Valmir-Goncalves
 - estudante universitario no centro Universitario Anhaguera Pitagoras Ampli
 - inicio = 15/07/2022
 - termino = 23/12/2025
